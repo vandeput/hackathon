@@ -5,9 +5,6 @@ order: 1
 layout: home
 ---
 
-<div class="module red" style="padding-top: 100px;">
-    <div class="container">
-    <article class="post-content text-center">
 #Hackathon Merdeka 2.0
 
 Setelah sukses menyelenggarakan Hackathon Merdeka yang pertama pada bulan Agustus lalu, Code4Nation kembali mengadakan Hackathon Merdeka pada tanggal 24-25 Oktober serentak di 17 kota di penjuru Indonesia dan para pemenangnya akan dikumpulkan di Jakarta pada momen Hari Sumpah Pemuda 28 Oktober 2015.
@@ -58,8 +55,6 @@ Harapan kami, Hackathon Merdeka 2.0 bisa menjadi sebuah bentuk "Sumpah Pemuda" m
 <hr>
 <div>
   <img src="{{ site.baseurl }}/img/c4n_.png" alt="Negara Memanggil">
-</div>
-</article>
 </div>
 
 <div class="module white">
